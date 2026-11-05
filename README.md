@@ -1,1 +1,3 @@
-# git-lab-5
+# Team Website - Home Page
+
+This project demonstrates GitHub collaboration.
